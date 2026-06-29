@@ -1,0 +1,28 @@
+streamlit
+
+langchain>=1.1.0
+langchain-core>=1.1.0
+langchain-community>=0.4.0
+langchain-text-splitters>=1.0.0
+
+# LLM and Embeddings
+langchain-groq>=1.1.0
+langchain-huggingface>=1.1.0
+
+# Vector Database
+chromadb>=0.4.0
+
+# NLP and ML
+sentence-transformers>=2.0.0
+
+# Document Processing
+pypdf
+# python-docx                                        # to load docx/pptx/txt files
+# python-pptx
+# unstructured>=0.10.0
+# unstructured[pdf]                     
+# unstructured[pdf]
+# unstructured-inference
+
+# Environment Variables
+python-dotenv>=1.0.0
